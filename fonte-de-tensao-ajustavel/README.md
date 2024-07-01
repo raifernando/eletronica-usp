@@ -21,10 +21,11 @@ O projeto desejado era uma fonte de tensão ajustável entre 3-12V de tensão, p
 
 ## Circuito 
 
-(...)
 
 ![foto-circuito-fonte](https://github.com/raifernando/eletronica-usp/assets/123335088/95179c67-911d-4a9d-a149-7dfde636afcd)
 
+
+[Vídeo explicação do circuito](https://drive.google.com/file/d/1tG552RtU_R4QFreADZNk3LUqsmcV1s8X/view?usp=sharing)
 
 #### FALSTAD
 

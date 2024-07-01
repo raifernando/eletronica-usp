@@ -1,8 +1,5 @@
 # Teste de reação
-### Integrantes
-* Caio Draco Araujo Albuquerque Galvao - 15573731
-* Luis Guilherme Zanetti - 15652750	
-* Raí Fernando Dal Prá - 15506968
+
 
 ### Projeto
 
@@ -31,11 +28,13 @@ O Arduino utilizado foi o UNO R3.
 
 O circuito funciona da seguinte forma: quando o botão é apertado, o LED é aceso em um tempo aleatório de 2 a 5 segundos e o jogador precisa apertar o botão novamente o mais rápido possível. Após apertado, é mostrado no display o tempo de reação (diferença de tempo entre a LED acender e o botão ser pressionado) em milissegundos. Para jogar novamente é preciso apertar o botão. 
 
-É salvo o tempo mais rápido desde o início e, caso esse tempo seja batido, o tempo mostrado no display pisca 3 vezes, indicando que o tempo recorde foi batido. 
+É salvo o tempo mais rápido desde o início e, caso esse tempo seja batido, o tempo mostrado no display pisca 3 vezes, indicando que o tempo recorde foi batido.
 
-
-
+Devido à limitação de entradas do Arduino só foi possível utilizar 3 displays, dessa forma, o tempo máximo computado é de 999ms.
 
 https://github.com/raifernando/eletronica-usp/assets/123335088/c60eca71-357c-414b-8887-1eecc6d54c66
 
-
+### Integrantes
+* Caio Draco Araujo Albuquerque Galvao - 15573731
+* Luis Guilherme Zanetti - 15652750	
+* Raí Fernando Dal Prá - 15506968

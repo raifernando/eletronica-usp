@@ -10,7 +10,7 @@ O projeto desejado era uma fonte de tensão ajustável entre 3-12V de tensão, p
 | 1           | LED Vermelho      |   R$0,50 |R$0,50  |
 | 2            | Resistor CR25 1K |    R$0,07 |R$0,14 |
 | 1            | Resitor CR25 4K7     |   R$0,07 |R$0,07  |
-| 1            | Resitor CR25 68R     |   R$0,07 |R$0,07  |
+| 1            | Resitor CR25 68R*     |   R$0,07 |R$0,07  |
 | 1            | Potenciômetro 1W B10K   |   R$7,00 |R$7,00  |
 | 1            | Capacitor 680uF 50V   |   R$5,00 |R$5,00  |
 | 1            | Diodo Zener 13V 1W  |   R$0,50 |R$0,50  |
@@ -18,6 +18,8 @@ O projeto desejado era uma fonte de tensão ajustável entre 3-12V de tensão, p
 | 4            | Diodo Retificador  |   R$0,20 |R$0,80  |
 | 25            | Jumpers macho x macho|    R$0,25 |R$6,25 |
 |             |   |    |R$60,23 |
+
+*Resistor de 68Ω precisa ser de 1W.
 
 ## Circuito 
 
